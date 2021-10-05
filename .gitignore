@@ -1,0 +1,120 @@
+
+*.sdf
+*.suo
+*.vcxproj
+*.filters
+*.user
+3D measure/UML.~ml
+3D measure/Release/vc100.pdb
+3D measure/Release/TitleWnd.obj
+3D measure/Release/tinyxml2.obj
+3D measure/Release/stdafx.obj
+3D measure/Release/SocketModule.obj
+3D measure/Release/ServerSocket.obj
+3D measure/Release/rc.write.1.tlog
+3D measure/Release/rc.read.1.tlog
+3D measure/Release/rc.command.1.tlog
+3D measure/Release/PYH_Comm.obj
+3D measure/Release/Protocol.obj
+3D measure/Release/mt.write.1.tlog
+3D measure/Release/mt.read.1.tlog
+3D measure/Release/mt.command.1.tlog
+3D measure/Release/MeConfocalSensor.obj
+3D measure/Release/Logger.obj
+3D measure/Release/link.write.1.tlog
+3D measure/Release/link.read.1.tlog
+3D measure/Release/link.command.1.tlog
+3D measure/Release/link-cvtres.write.1.tlog
+3D measure/Release/link-cvtres.read.1.tlog
+3D measure/Release/LensChanger.obj
+3D measure/Release/Inspection.obj
+3D measure/Release/GapSensorIf.obj
+3D measure/Release/djThreadObj.obj
+3D measure/Release/djString.obj
+3D measure/Release/DistanceSensor.obj
+3D measure/Release/DistanceMeasure.obj
+3D measure/Release/DialogRecipe.obj
+3D measure/Release/ClientSocket.obj
+3D measure/Release/CL.write.1.tlog
+3D measure/Release/CL.read.1.tlog
+3D measure/Release/cl.command.1.tlog
+3D measure/Release/C3dMeasure.obj
+3D measure/Release/BhThread.obj
+3D measure/Release/BhImage.obj
+3D measure/Release/3D measureDlg.obj
+3D measure/Release/3D measure.write.1.tlog
+3D measure/Release/3D measure.vcxprojResolveAssemblyReference.cache
+3D measure/Release/3D measure.res
+3D measure/Release/3D measure.pdb
+3D measure/Release/3D measure.pch
+3D measure/Release/3D measure.obj
+3D measure/Release/3D measure.log
+3D measure/Release/3D measure.lastbuildstate
+3D measure/Release/3D measure.exe.intermediate.manifest
+3D measure/Release/3D measure.Build.CppClean.log
+3D measure/Release/3D measure-20190828.ex
+3D measure/Release/3D measure(no insp)exe
+3D measure/ReadMe.txt
+3D measure/MEDAQLib.dll
+*.ipch
+3D measure/Debug/vc100.pdb
+3D measure/Debug/vc100.idb
+3D measure/Debug/TitleWnd.obj
+3D measure/Debug/tinyxml2.obj
+3D measure/Debug/stdafx.obj
+3D measure/Debug/SocketModule.obj
+3D measure/Debug/ServerSocket.obj
+3D measure/Debug/rc.write.1.tlog
+3D measure/Debug/rc.read.1.tlog
+3D measure/Debug/rc.command.1.tlog
+3D measure/Debug/PYH_Comm.obj
+3D measure/Debug/Protocol.obj
+3D measure/Debug/mt.write.1.tlog
+3D measure/Debug/mt.read.1.tlog
+3D measure/Debug/mt.command.1.tlog
+3D measure/Debug/MeConfocalSensor.obj
+3D measure/Debug/Logger.obj
+3D measure/Debug/link.write.1.tlog
+3D measure/Debug/link.read.1.tlog
+3D measure/Debug/link.command.1.tlog
+3D measure/Debug/link.12000.write.1.tlog
+3D measure/Debug/link.12000.read.1.tlog
+3D measure/Debug/link.12000-cvtres.write.1.tlog
+3D measure/Debug/link.12000-cvtres.read.1.tlog
+3D measure/Debug/link-cvtres.write.1.tlog
+3D measure/Debug/link-cvtres.read.1.tlog
+3D measure/Debug/LensChanger.obj
+3D measure/Debug/Inspection.obj
+3D measure/Debug/GapSensorIf.obj
+3D measure/Debug/djThreadObj.obj
+3D measure/Debug/djString.obj
+3D measure/Debug/DistanceSensor.obj
+3D measure/Debug/DistanceMeasure.obj
+3D measure/Debug/DialogRecipe.obj
+3D measure/Debug/ClientSocket.obj
+3D measure/Debug/CL.write.1.tlog
+3D measure/Debug/CL.read.1.tlog
+3D measure/Debug/cl.command.1.tlog
+3D measure/Debug/C3dMeasure.obj
+3D measure/Debug/BhThread.obj
+3D measure/Debug/BhImage.obj
+3D measure/Debug/3D measureDlg.obj
+3D measure/Debug/3D measureD.zip
+3D measure/Debug/3D measureD.exe
+3D measure/Debug/3D measure_manifest.rc
+3D measure/Debug/3D measure.zi
+3D measure/Debug/3D measure.write.1.tlog
+3D measure/Debug/3D measure.vcxprojResolveAssemblyReference.cache
+3D measure/Debug/3D measure.res
+3D measure/Debug/3D measure.pdb
+3D measure/Debug/3D measure.pch
+3D measure/Debug/3D measure.obj
+3D measure/Debug/3D measure.log
+3D measure/Debug/3D measure.lastbuildstate
+3D measure/Debug/3d measure.ini
+3D measure/Debug/3D measure.ilk
+3D measure/Debug/3D measure.exe.intermediate.manifest
+3D measure/Debug/3D measure.exe.embed.manifest.res
+3D measure/Debug/3D measure.exe.embed.manifest
+3D measure/Debug/3D measure.exe
+3D measure/Debug/3D measure.Build.CppClean.log
